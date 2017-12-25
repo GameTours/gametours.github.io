@@ -1,0 +1,44 @@
+.header1{
+    font-weight: 600;
+    color: #FF0000;
+    text-align: center;
+    font-size: 96px;
+    font-family: "Barlow", sans-serif
+}
+
+.header2{
+    font-family: "Barlow", sans-serif;
+    font-size: 68px;
+    font-weight: 800;
+    color:#610B5E;
+}
+html{
+    background-attachment: fixed;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://storage.googleapis.com/jyoung-ml-data/index-background-1.jpg);
+}
+
+.para1{
+    font-family: "Fira Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #BF00FF;
+}
+
+.para2{
+    font-family: "Fira Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #DF7401;
+}
+
+.header3{
+    font-family: "Fira Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    color: #FA5858;
+}
